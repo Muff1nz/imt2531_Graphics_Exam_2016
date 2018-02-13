@@ -1,0 +1,16 @@
+g resources/models/plane.obj
+c resources/models/car.obj
+t resources/models/winter_lowpoly_tree_pack.obj
+s resources/models/skybox.obj
+tp 1, 7.779883, 41.782665
+tp 2, -0.601636, 54.710846
+tp 3, -62.896236, 34.526787
+tp 4, -83.932556, -9.357743
+tp 5, -91.258324, -90.163567
+tp 6, -38.589233, -50.105255
+tp 7, 50.868942, -45.262604
+tp 8, 59.047680, -15.532347
+tp 0, 46.275883, 32.328396
+tp 5, 46.186489, 80.717232
+tp 2, 87.105164, 72.726463
+tp 4, 88.440216, -90.314590
